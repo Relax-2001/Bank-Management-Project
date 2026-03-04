@@ -23,6 +23,7 @@ The project follows a Three-Tier (Layered) Architecture to ensure "Separation of
 <img width="1342" height="755" alt="Transfer Form" src="https://github.com/user-attachments/assets/3b8c3f18-1259-4031-9293-d2e12921bc78" />
 <img width="1340" height="754" alt="Transfer Form2" src="https://github.com/user-attachments/assets/709191bc-4a2d-41b8-999d-7cb15e803dea" />
 <img width="1340" height="753" alt="Total Balances" src="https://github.com/user-attachments/assets/59923011-0812-40f4-811c-b22f408ebc91" />
+<br>
 •	AI ChatBot: Interactive terminal for financial assistance.
 🚀 Getting Started
 Prerequisites
