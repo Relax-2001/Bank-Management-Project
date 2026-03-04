@@ -121,4 +121,3 @@ Open the `.sln` file in Visual Studio and press **F5**.
 ## 👨‍💻 Author
 
 **Mahmoud Wahbi**
-CS Student at Syrian Virtual University (SVU)
